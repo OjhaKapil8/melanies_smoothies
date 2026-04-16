@@ -1,6 +1,7 @@
 #name: app_environment
 snowflake-snowpark-python
 streamlit
+requests
 
 #channels:
  # - snowflake
